@@ -1,2 +1,4 @@
-# codyssey
-codyssey
+코디세이 미션1 과제 
+
+genAI 기초 1 LLM 기반 업무 자동화
+
