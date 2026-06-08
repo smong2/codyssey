@@ -21,7 +21,7 @@
 ## 🏆 주요 성과
 
 ### 1️⃣ 모델 비교를 통한 최적의 자동화 모델 선정
-* 동일 과업과 통제된 환경 하에서 `Gemini 1.5 Pro`, `Claude 3.5 Sonnet`, `GPT-5` 3개 모델에 대한 교차 벤치마킹 수행
+* 동일 과업과 통제된 환경 하에서 `Gemini 3.1 Pro`, `Claude 4.6 Sonnet`, `GPT-5` 3개 모델에 대한 교차 벤치마킹 수행
 * 지시 준수, 논리적 추론, 환각 방어, 과도한 출력(Over-helpfulness) 등 4대 평가 축을 기준으로 검증하여 자동화에 가장 최적화된 메인 엔진 모델 발굴 및 선정
 
 ### 2️⃣ 단계적 추론 및 확인 질문(안전장치) 시스템 프롬프트 설계
@@ -36,15 +36,16 @@
 
  
 * [최종보고서 모음](./docs/)
-    * [1. LLM 모델 비교선정보고서](./docs/01_LLM_benchmark.md)
-    * [2. 시스템설계문서](./docs/02_system_design.md)
-    * [3. 실행로그](./docs/03_execution_log.md)
-    * [4. 추가과제-GEMS,이미지생성](./docs/04_additional_report.md)
+    * [1. LLM 모델 비교선정보고서](./docs/01_LLM_benchmark.md) : 3가지 LLM의 성능을 교차 검증하고 최적의 모델을 선정한 결과
+    * [2. 시스템설계문서](./docs/02_system_design.md) : 요구사항을 만족시키기 위해 설계한 시스템 문서
+    * [3. 실행로그](./docs/03_execution_log.md) : 수행한 결과본
+    * [4. 추가과제-GEMS,이미지생성](./docs/04_additional_report.md) : 추가 과제 두가지에 대한 캡처 이미지
 
 
 ## 프롬프트 엔지니어링 과정 (Process)
 * [프로세스 기록 모음](./process/)
-    * [페르소나 실패 기록](./process/04_persona_error.md)
+    * [페르소나 실패 기록](./process/04_persona_error.md) : 페르소나 테스트 중 갑자기 풀려버린 기록
     * [1. 최적 모델 선정 과정 기록]
     * [2. 시스템 프롬프트 설계 과정 기록]
     * [3. 환각 제어 및 장기 기억 테스트 과정 기록]
+
