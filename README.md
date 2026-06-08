@@ -43,9 +43,11 @@
 
 
 ## 프롬프트 엔지니어링 과정 (Process)
+* 이 과정은 제미나이 프로 3.1 (pro extended) 를 사용해서 진행
 * [프로세스 기록 모음](./process/)
-    * [페르소나 실패 기록](./process/04_persona_error.md) : 페르소나 테스트 중 갑자기 풀려버린 기록
-    * [1. 최적 모델 선정 과정 기록]
-    * [2. 시스템 프롬프트 설계 과정 기록]
-    * [3. 환각 제어 및 장기 기억 테스트 과정 기록]
+    * [1. 최적 모델 선정 과정 기록](./process/01_model_selection_process.md) : 최적 모델 선정 과정 기록
+    * [2. 시스템 프롬프트 설계 과정 기록](./process/02_system_prompt_design_process.md) : v 1.0 -> 2.0 프롬프트 설계 과정 기록
+    * [3. 환각 제어 및 장기 기억 테스트 과정 기록](./process/03_hallucination_control_process.md) : 환각 제어 및 문맥유지 테스트 과정
+    * [4. 페르소나 실패 기록](./process/04_persona_error.md) : 페르소나 테스트 중 갑자기 풀려버린 기록
+
 
