@@ -8,10 +8,9 @@
 * **2026.06**
 
 ## 🛠 사용 기술 스택 (LLMs)
-* <img src="https://img.shields.io/badge/Google%20Gemini%201.5%20Pro-4285F4?style=flat-square&logo=googlegemini&logoColor=white"/>
-* <img src="https://img.shields.io/badge/Anthropic%20Claude%203.5%20Sonnet-D97706?style=flat-square&logo=anthropic&logoColor=white"/>
-* <img src="https://img.shields.io/badge/OpenAI%20GPT--5-412991?style=flat-square&logo=openai&logoColor=white"/>
-
+* 제미나이 3.1 프로
+* 클로드 소넷 4.6
+* GPT-5
 ---
 
 ## 🎯 프로젝트 목적
